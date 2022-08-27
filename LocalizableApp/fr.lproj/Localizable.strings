@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizableApp
+
+  Created by JOYNAL ABEDIN on 27/8/22.
+  
+*/
+
+"firstNameKey" = "Prénom de l'élève";
+"lastNameKey" = "Nom de famille de l'étudiant";
+"departmentNameKey" = "Nom du département étudiant";
